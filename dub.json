@@ -1,0 +1,10 @@
+{
+	"name": "d-emoji",
+	"description": "Named UTF-8 emoji constants for D UI and docs tooling (Diátaxis buckets, common nav glyphs).",
+	"authors": ["Dev-Centr"],
+	"license": "BSL-1.0",
+	"copyright": "Copyright (c) 2026, Dev-Centr",
+	"homepage": "https://github.com/dev-centr/d-emoji",
+	"sourcePaths": ["source"],
+	"importPaths": ["source"]
+}

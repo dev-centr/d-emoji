@@ -1,0 +1,18 @@
+= d-emoji
+
+Named UTF-8 emoji constants for D UI and docs tooling.
+
+== Diátaxis buckets
+
+[source,d]
+----
+import demoji.diataxis;
+
+writeln(diataxis.tutorialsLabel()); // 🎓 Tutorials
+----
+
+Matches glyphs in link:https://docs.devcentr.org/general-knowledge/[general-knowledge] nav.
+
+== Status
+
+Initial scaffold — expand with UI/common sets as DevCentr and dlangui consumers need them.
